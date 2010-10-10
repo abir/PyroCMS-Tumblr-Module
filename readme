@@ -1,7 +1,7 @@
 Tumblr Module for PyroCMS
 
 INSTALL-
-1. Copy the Tumblr folder to third_party/modules/
+1. Copy the Tumblr folder to modules/tumblr/
 2. Run tumblr.sql
 3. Setup your Tumblr username under admin -> modules -> tumblr
 4. ???
